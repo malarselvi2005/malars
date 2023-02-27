@@ -1,1 +1,2 @@
-After cloned
+After cloned 
+step 2 after pushed
