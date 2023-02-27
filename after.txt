@@ -1,3 +1,8 @@
 After cloned 
 step 2 after pushed
+<<<<<<< HEAD
 djhrrjrkttkrtgwt
+=======
+After saving in notepad
+>>>>>>> c1
+ggggggggggggggggggggggggggggggg
